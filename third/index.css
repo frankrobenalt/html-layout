@@ -1,0 +1,29 @@
+* {
+    margin:0;
+    padding:0;
+}
+header {
+    background-color: rgb(221, 221, 221);
+    height: 15vh;
+}
+div {
+    height: 15vh;
+}
+header div {
+    background-color: rgb(30, 156, 234);
+float: left;
+width: 120px;
+height: 120px;
+margin: 15px auto 15px 30px;
+}
+#writing {
+    background-color:rgb(239, 237, 237);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:25vh;
+    padding: 50px;
+    font-size: 40px;
+    font-family: Georgia, Times, Times New Roman, serif;
+}
+
